@@ -1,58 +1,37 @@
-# OUR — Layer 0 Kernstruktur (iki1uc)
+UMrumIM ist ein Teil der OUR‑Ebene  
+und gehört zur Triolet‑Struktur.
+Es bildet einen Nullpunkt, an dem Module andocken können.
 
-OUR ist die Ausgangsebene für gemeinsame Struktur.  
-Es bildet den Nullpunkt, an dem alle Module andocken.
+Kern
+ID.html – ID‑Kern
 
----
+index.html – Darstellung
 
-## Zweck
+README.md – Bedeutung
 
-OUR stellt die Basis bereit, auf der weitere Elemente entstehen.  
-Es ist kein Ergebnis, keine Reaktion, keine Führung.  
-Es ist der gemeinsame Ursprung.
+Puzzle
+data-piece="UMrumIM"
 
----
+UMrumIM trägt ein einzelnes Puzzle‑Stück,
+das seine Identität im System markiert.
 
-## Struktur
+Struktur
+suite‑Basis
 
-- ID.html — Signatur der OUR‑Ebene  
-- index.html — Anzeige der Kernform  
-- README.md — Beschreibung der Ausgangsebene
+slide‑Flow
 
----
+dim‑Ebene
 
-## Prinzip
+Drei Dateien.
+Ein Zeichen.
+Ein Dreieck.
 
-OUR folgt dem Nullpunkt‑Prinzip:
+Bedeutung
+UMrumIM ist ein reiner Layer‑0‑Slot.
+Er trägt keine Engine, keine KI‑Funktion, keine Berechnung.
+Er dient ausschließlich als Ausgangspunkt,
+an dem höhere Module andocken und sich ausrichten.
 
-Start → Form → Übergang
-
-Es besitzt keine Transformation wie ICE (C F E).  
-Es dient als Ausgangsfläche für Module wie:
-
-- [ICE](ca://s?q=ICE_Element_definieren)  
-- [4u](ca://s?q=4u_Element_erklaeren)  
-- [AQUA](ca://s?q=AQUA_Element_System_aktivieren)
-
----
-
-## Verbindung
-
-OUR ist die Basis für:
-
-- ATOM  
-- VECTOR  
-- USER  
-- ICE  
-- 4u  
-- AQUA  
-
-Es stellt die Fläche bereit, auf der diese Elemente arbeiten.
-
----
-
-## Status
-
-OUR ist aktiv, sobald die Ebene geladen wird.  
-Es besitzt keine eigene Pipeline.  
-Es dient als Ausgangspunkt für alle weiteren Schritte.
+UMrumIM ist damit ein ruhender Kernpunkt,
+eine Basis‑Ebene,
+ein Start‑Vektor innerhalb der Triolet‑Struktur.
