@@ -1,25 +1,65 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
 <meta charset="UTF-8">
-<title>OUR — Origin Sign</title>
+<title>UMrumIM · Layer‑0</title>
 
 <style>
     body {
-        margin: 0;
-        background: #000;
-        color: #66ccff;
         font-family: monospace;
+        background: #f5f5f5;
+        color: #222;
+        padding: 40px;
         text-align: center;
-        padding-top: 20vh;
-        letter-spacing: 2px;
+    }
+    suite {
+        display: block;
+        font-size: 32px;
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
+    slide {
+        display: block;
+        font-size: 18px;
+        margin-bottom: 20px;
+        opacity: 0.7;
+    }
+    .puzzle {
+        font-size: 26px;
+        padding: 20px;
+        border: 2px dashed #444;
+        display: inline-block;
+        margin-top: 20px;
     }
 </style>
-
 </head>
+
 <body>
 
-<h1>Ich bin EURE</h1>
+<suite>UMrumIM</suite>
+<slide>dimension.flow()</slide>
+
+<div class="puzzle" data-piece="UMrumIM">
+    ((( UMrumIM )))
+</div>
+
+<script>
+// Layer‑0 Startsignal
+console.log("UMrumIM geladen: Layer‑0 aktiv");
+
+// Minimaler Slot‑Flow
+function SLOT_FLOW() {
+    return {
+        suite: "UMrumIM",
+        slide: "dimension.flow()",
+        dim: "Layer‑0",
+        piece: "UMrumIM",
+        stamp: Date.now()
+    };
+}
+
+console.log("Slot‑Flow:", SLOT_FLOW());
+</script>
 
 </body>
 </html>
